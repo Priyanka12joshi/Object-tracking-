@@ -1,4 +1,4 @@
-# 🎯 Object Detection vs. Object Tracking in Computer Vision
+# 🎯 Object Tracking in Computer Vision
 
 A comparative project demonstrating the core differences between **Object Detection** and **Object Tracking** using real-time video inputs and deep learning models such as YOLOv8 and DeepSORT. This repo is ideal for learning, benchmarking, and visualizing both techniques side-by-side.
 
@@ -131,8 +131,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 👩‍💻 Author
 
 * **Priyanka Joshi**
-  📧 [priyanka@example.com](mailto:priyanka@example.com)
-  🔗 [LinkedIn](https://linkedin.com/in/priyanka-joshi)
+  📧 [priyanka@example.com](mailto:priyankajoshi2300@gmail.com)
+  🔗 [LinkedIn]linkedin.com/in/priyanka-joshi450643247/)
 
 ---
 
